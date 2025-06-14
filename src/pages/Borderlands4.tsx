@@ -72,17 +72,17 @@ const Borderlands4 = () => {
 
   const newsItems = [
   {
-    date: "2024-06-14",
+    date: "Jun. 13, 2025",
     title: <a href="https://www.gamesradar.com/games/borderlands/borderlands-4-is-turning-out-to-be-better-than-borderlands-3-by-every-measurement-we-have-including-subjective-ones-gearbox-boss-randy-pitchford-teases/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Borderlands 4 is "turning out to be better" than Borderlands 3 "by every measurement we have, including subjective ones," Gearbox boss Randy Pitchford teases</a>,
     description: "Gearbox CEO Randy Pitchford recently teased that Borderlands 4 is shaping up to be 'better' than Borderlands 3 'by every measurement we have, including subjective ones.' He also mentioned that the game's release date has been moved up by 11 days to September 12, 2025, because 'the game is awesome, the team is cooking,' and a dedicated State of Play is 'imminently' coming."
   },
   {
-    date: "2024-06-12",
+    date: "Jun. 11, 2025",
     title: <a href="https://www.gamespot.com/articles/borderlands-4-video-shows-how-vault-hunters-are-made/1100-6532441/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Borderlands 4 Video Shows How Vault Hunters Are Made</a>,
     description: "Gearbox Software has released a new YouTube series, 'Beyond the Borderlands,' with its first episode focusing on the creation process of Vault Hunters. Art director Adam May explained their aim to create characters that resonate with both players and the development team, often referencing comic book heroes. Lead character designer Nick Thurston emphasized that the guiding principle for Borderlands is simply to 'be badass,' ensuring all abilities and gear meet community expectations."
   },
   {
-    date: "2024-06-10",
+    date: "Jun. 9, 2025",
     title: <a href="https://www.eurogamer.net/with-borderlands-4-nearly-here-a-community-of-archivists-are-racing-to-revive-a-dead-borderlands-mmo" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">With Borderlands 4 nearly here, a community of archivists are racing to revive a dead Borderlands MMO</a>,
     description: "As Borderlands 4 approaches its release, a community of archivists is attempting to revive an unreleased Borderlands MMO project. The team successfully found a public build and is working to make it playable. Despite facing potential copyright issues and a substantial amount of work, nearly 100 players have offered their help since the project went public. Their goal is to get a playable community build up and running before the official launch of Borderlands 4."
   }];
@@ -371,9 +371,12 @@ const Borderlands4 = () => {
       <section id="news" className="py-20 px-4 sm:px-6 lg:px-8" data-id="93jo3o0cg" data-path="src/pages/Borderlands4.tsx">
         <div className="max-w-6xl mx-auto" data-id="5yzr6kk3v" data-path="src/pages/Borderlands4.tsx">
           <div className="text-center mb-16" data-id="qcpkiqlvq" data-path="src/pages/Borderlands4.tsx">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent" data-id="x7jm9cr29" data-path="src/pages/Borderlands4.tsx">
-              Latest News
-            </h2>
+            <div className="flex flex-col items-center" data-id="latest-news-header">
+              <h2 className="text-4xl md:text-5xl font-bold mb-2 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent" data-id="x7jm9cr29" data-path="src/pages/Borderlands4.tsx">
+                Latest News
+              </h2>
+              <p className="text-gray-400 text-sm mb-6">Last updated: Jun. 13, 2025</p>
+            </div>
             <p className="text-xl text-gray-300 max-w-4xl mx-auto" data-id="pjzu5sgfk" data-path="src/pages/Borderlands4.tsx">
               Stay updated with the latest developments, announcements, and behind-the-scenes insights.
             </p>
