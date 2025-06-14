@@ -72,19 +72,39 @@ const Borderlands4 = () => {
 
   const newsItems = [
   {
-    date: "Jun. 13, 2025",
+    date: "Jun. 10, 2025",
     title: <a href="https://www.gamesradar.com/games/borderlands/borderlands-4-is-turning-out-to-be-better-than-borderlands-3-by-every-measurement-we-have-including-subjective-ones-gearbox-boss-randy-pitchford-teases/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Borderlands 4 is "turning out to be better" than Borderlands 3 "by every measurement we have, including subjective ones," Gearbox boss Randy Pitchford teases</a>,
-    description: "Gearbox CEO Randy Pitchford recently teased that Borderlands 4 is shaping up to be 'better' than Borderlands 3 'by every measurement we have, including subjective ones.' He also mentioned that the game's release date has been moved up by 11 days to September 12, 2025, because 'the game is awesome, the team is cooking,' and a dedicated State of Play is 'imminently' coming."
+    description: "Gearbox CEO Randy Pitchford recently teased that Borderlands 4 is shaping up to be 'better' than Borderlands 3 'by every measurement we have, including subjective ones.' He also mentioned that the game's release date has been moved up by 11 days to September 12, 2025, because 'the game is awesome, the team is cooking,' and a dedicated State of Play is 'imminently' coming. Pitchford expressed high confidence in the launch, stating they've never been in a better spot this far from release."
   },
   {
-    date: "Jun. 11, 2025",
+    date: "Jun. 8, 2025",
     title: <a href="https://www.gamespot.com/articles/borderlands-4-video-shows-how-vault-hunters-are-made/1100-6532441/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Borderlands 4 Video Shows How Vault Hunters Are Made</a>,
     description: "Gearbox Software has released a new YouTube series, 'Beyond the Borderlands,' with its first episode focusing on the creation process of Vault Hunters. Art director Adam May explained their aim to create characters that resonate with both players and the development team, often referencing comic book heroes. Lead character designer Nick Thurston emphasized that the guiding principle for Borderlands is simply to 'be badass,' ensuring all abilities and gear meet community expectations."
   },
   {
-    date: "Jun. 9, 2025",
+    date: "Jun. 6, 2025",
     title: <a href="https://www.eurogamer.net/with-borderlands-4-nearly-here-a-community-of-archivists-are-racing-to-revive-a-dead-borderlands-mmo" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">With Borderlands 4 nearly here, a community of archivists are racing to revive a dead Borderlands MMO</a>,
     description: "As Borderlands 4 approaches its release, a community of archivists is attempting to revive an unreleased Borderlands MMO project. The team successfully found a public build and is working to make it playable. Despite facing potential copyright issues and a substantial amount of work, nearly 100 players have offered their help since the project went public. Their goal is to get a playable community build up and running before the official launch of Borderlands 4."
+  },
+  {
+    date: "May 28, 2025",
+    title: <a href="https://www.ign.com/articles/borderlands-4-dev-diary-unreal-engine-5-advancements" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Borderlands 4 Developer Diary: New Advancements with Unreal Engine 5</a>,
+    description: "Gearbox has released a new developer diary detailing the progress of Borderlands 4's development on Unreal Engine 5. The team highlighted how technologies like Lumen (dynamic global illumination) and Nanite (virtualized geometry) have enhanced the visual fidelity and detail of Pandora. They also discussed optimizing the engine to support Borderlands' signature art style while achieving higher frame rates and smoother gameplay."
+  },
+  {
+    date: "May 15, 2025",
+    title: <a href="#" className="text-blue-400 hover:underline">Borderlands 4 Reveals New Skill Trees and Character Progression System</a>,
+    description: "Following last week's tease, Gearbox today unveiled detailed information about Borderlands 4's new skill trees and character progression system. Each character will have more flexible skill choices, allowing players to create more diverse builds. Additionally, a new 'Specialist Branch' skill tree will introduce game-changing abilities, encouraging players to experiment with different tactical combinations."
+  },
+  {
+    date: "Apr. 25, 2025",
+    title: <a href="#" className="text-blue-400 hover:underline">Borderlands 4 Debuts First Gameplay Trailer: New Enemies and Environments Revealed</a>,
+    description: "Gearbox released the first gameplay trailer for Borderlands 4 on 'Borderlands Day.' The trailer showcased new enemy factions, stunning planetary environments, and never-before-seen weapon types. Players got a glimpse of new planet designs and fresh loot mechanics, hinting at new surprises in exploration and combat."
+  },
+  {
+    date: "Apr. 10, 2025",
+    title: <a href="#" className="text-blue-400 hover:underline">Gearbox Confirms Borderlands 4 Will Feature Cross-Platform Play at Launch</a>,
+    description: "Gearbox officially confirmed that Borderlands 4 will support cross-platform play across all platforms from launch day. This decision aims to foster community interaction and allow players to seamlessly team up with friends on different systems. The move is seen as a response to player demand and is expected to significantly enhance the online multiplayer experience."
   }];
 
 
